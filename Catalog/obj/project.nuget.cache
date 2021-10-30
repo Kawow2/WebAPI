@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CvU+WTpqDBxc1FEuukpXDPMAbe1eW3wsn+2Uu29eeHvn1YOxyzAtaPB16w9dw4o7nnT5hDtKkGdtKF8G4d3vhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Epulapp\\Documents\\Projet perso\\WebAPI\\Catalog\\Catalog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Epulapp\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Epulapp\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Epulapp\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Epulapp\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Epulapp\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Epulapp\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
