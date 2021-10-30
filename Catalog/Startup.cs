@@ -11,6 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using WEBAPI.Repositories;
 
 namespace Catalog
 {
@@ -27,6 +28,7 @@ namespace Catalog
         public void ConfigureServices(IServiceCollection services)
         {
 
+            services.AddSingleton<IItemsRepository, InMemItemsRepository>();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
